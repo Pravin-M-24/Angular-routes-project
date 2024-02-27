@@ -1,0 +1,17 @@
+{
+    "menuObj": [
+      { "title": "Home",
+       "url": "/home", 
+       "color": "GREEN"
+     },
+      { "title": "About", 
+      "url": "/about", 
+      "color": "BLUE" 
+    },
+      { "title": "Contact Us", 
+      "url": "/contact",
+       "color": "YELLOW"
+     }
+    ]
+  }
+  
